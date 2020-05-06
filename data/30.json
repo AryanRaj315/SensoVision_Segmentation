@@ -1,0 +1,34 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Defect",
+      "points": [
+        [
+          101.14285714285714,
+          39.0
+        ],
+        [
+          122.57142857142857,
+          51.85714285714286
+        ],
+        [
+          108.57142857142857,
+          73.0
+        ],
+        [
+          87.71428571428571,
+          57.28571428571429
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\im\\30.jpg",
+  "imageData": null,
+  "imageHeight": 200,
+  "imageWidth": 200
+}
